@@ -1,0 +1,42 @@
+
+
+.ca{
+    border-radius:10px;
+    margin-left: 35%;
+}
+.ss{
+    border-radius: 10px;
+}
+
+.cn{
+    background-color: rgb(24, 6, 56);
+    color: rgb(214, 220, 224);
+    border-radius: 10px;
+    width: 25%;
+    margin-left: 0%;
+}
+
+.ps{
+    background-color: rgb(24, 6, 56);
+    color: rgb(214, 220, 224);
+    border-radius: 10px;
+    width: 25%;
+    margin-left: 35%;
+}
+
+
+.cs{
+    font-family: 'Times New Roman';
+    margin:auto;
+    width: 700px;
+    padding: 10px;
+    height:500px;
+    
+}
+.sa{
+    display: flex ;
+
+}
+.tt{
+    margin-left: 20%;
+}

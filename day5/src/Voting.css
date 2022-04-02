@@ -1,0 +1,15 @@
+.ss{
+    display: flex;
+}
+.p{
+    margin:auto;
+    width: 450px;
+    padding: 10px;
+    height:500px;
+}
+.pp{
+    border: 5px black solid;
+    padding-inline-end: 20%;
+    
+    
+}
